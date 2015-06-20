@@ -43,7 +43,7 @@ like to build for a specific platform, use one of the following inside the
 'deps' directory:
 
     make abc.build-android-arm
-    make abc.build-ios-universal (only works on a Mac)
+    make abc.build-ios-armv7 (only works on a Mac)
     make abc.build-native
 
 The 'deps' system automatically downloads and builds the various open-source
